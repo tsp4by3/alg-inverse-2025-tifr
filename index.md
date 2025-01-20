@@ -2,8 +2,6 @@
 title: "CSS337.1 - Algorithms for Inverse Problems"
 layout: default
 ---
-
-# CSS337.1 - Algorithms for Inverse Problems
 **Spring 2025, STCS, TIFR**
 
 Welcome to the official course page for **CSS337.1 - Algorithms for Inverse Problems**.

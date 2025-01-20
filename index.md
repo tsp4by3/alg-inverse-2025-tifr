@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "CSS337.1 - Algorithms for Inverse Problems"
 layout: default
 ---
 

@@ -1,2 +1,2 @@
 # alg-inverse-2025-tifr
-Algorithms for Inverse Problems
+Algorithmic Machine Learning via Inverse Problems
